@@ -7,5 +7,5 @@ Simple Flutter UI with changing states
 ## Getting Started
 
 - [More about Flutter](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Flutter cookbook(https://docs.flutter.dev/cookbook)
+- [Flutter cookbook(https://docs.flutter.dev/cookbook)
 
