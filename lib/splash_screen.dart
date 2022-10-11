@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:bmi_calculator/main.dart';
 import 'package:bmi_calculator/bmi_screen.dart';
-
+//splash screen starting first
 const knbackgroundColor = Color(0xFF263238);
 
 class SplashScreenPage extends StatefulWidget {
