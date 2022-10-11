@@ -4,6 +4,7 @@ const knbackgroundColor = Color(0xFF263238);
 const knblueGreyColor = Color(0xFF37474F);
 const kntranparentColor = Color(0xFFECEFF1);
 
+//card to be inherted
 class PageCard extends StatelessWidget {
   const PageCard(
       {super.key,
