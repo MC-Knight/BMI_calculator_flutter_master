@@ -46,7 +46,7 @@ class KnightApp extends StatelessWidget {
               backgroundColor: knblueGreyColor),
           iconTheme: const IconThemeData(size: 90, color: Colors.white),
           useMaterial3: true),
-      home: const SplashScreenPage(),
+      home: const SplashScreenPage() // starting on splash screen,
     );
   }
 }
